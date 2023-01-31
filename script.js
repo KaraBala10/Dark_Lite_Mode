@@ -15,6 +15,7 @@ function replace() {
         y.src =x[0];
         past =0;
         body.style.backgroundColor = '#1c253d';
+        pre.style.color = 'white';
     }
     else {
         y.src =x[1];
